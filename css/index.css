@@ -1,0 +1,14 @@
+body {
+	background-color: #f1f5f8 !important;
+}
+.meroon {
+	color : #c59d5f;
+}
+.meroon:hover {
+	color: #fff;
+	background-color: #c59d5f;
+	border-color: #c59d5f;
+}
+.im-border {
+	border : 5px solid #c59d5f;
+}
